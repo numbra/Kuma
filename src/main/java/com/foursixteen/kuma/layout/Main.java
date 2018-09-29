@@ -1,4 +1,4 @@
-package ui.layout;
+package com.foursixteen.kuma.layout;
 
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
